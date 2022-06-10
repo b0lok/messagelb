@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "A discord bot for tracking messages with automated leaderboard , etc",
   "main": "src/bot.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "start": "node src/bot.js"
   },
+{
   "author": "Sahil",
   "license": "MIT",
   "dependencies": {
