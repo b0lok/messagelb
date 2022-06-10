@@ -10,7 +10,7 @@
     "start": "node src/bot.js"
   },
 {
-  "author": "Sahil",
+  "author": "bolok",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.1",
